@@ -7,6 +7,6 @@ import (
 )
 
 func SayHelloFrom(name string) {
-	fmt.Printf("Hello from %s (w/ gomaid-deps-4)\n", name)
+	fmt.Printf("Hello from %s (w/ gomaid-deps-6)\n", name)
 	http.SayHello()
 }
